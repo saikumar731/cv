@@ -1,12 +1,14 @@
 body{
   background-color:#EAF6F6;
+  padding:0 30%;
 }
  hr {
   border-style: none;
   border-top: dotted;
   border-color: grey;
   border-width: 5px;
-  width: 2%;
+  width: 5%;
+  margin-top: 10px;
  }
  img{
    height: 200px;
